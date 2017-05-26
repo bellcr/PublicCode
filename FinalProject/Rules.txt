@@ -1,0 +1,23 @@
+Charles Bell, text based RPG
+Created: May 4th, 2017
+
+Rules:
+
+The rules of the text based RPG are layed out within the system.
+
+The user must choose a starting class for their character from the options: Human, Cyberdemon, Balrog, Elf, Dark Elf.
+Each class has unique starting attributes and unique combat styles.
+
+The user is then presented with 3 doors on every level, the user chooses a door by entering the number '1', '2', or '3'
+into the system. If the user encounters a creature a battle simulation is run to see which creature wins the battle.
+
+Within the battle system the user controlled character will always be the first listed health and the first listed
+attack.
+
+If the user finds an item its effect is immediately added to the user, if nothing is found the game continues. If the 
+user survives the level the level of the game increases by 1.
+
+Every five levels the game scales up in difficulty. This makes the enemies more powerful to face, as well as items
+providing a bigger boost to the user stats.
+
+The goal of the game is to reach as high of a level as possible, the game requires a little bit of luck
